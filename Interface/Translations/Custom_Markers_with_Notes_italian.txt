@@ -1,0 +1,6 @@
+$remove	Rimuovi
+$Multiple Custom Markers with Notes mod starting...	Inizializzazione di "Multiple Custom Markers with Notes"...
+$You have no marker available. Remove one of your markers.	Non hai più cursori disponibili. Rimuovine uno prima di procedere.
+$Location marked on map	Luogo segnato sulla mappa
+$Mark Location	Segnala Luogo
+$Mark current location on map	Segna le coordinate correnti sulla mappa
